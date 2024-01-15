@@ -1,10 +1,7 @@
 # mpg R data visualization
 
-## the code all in R file, and the details are in pdf file 
-
-## data source: https://gist.github.com/omarish/5687264
-
-# README.md for R Data Visualization Project
+### the code all in R file, and the details are in pdf file 
+### data source: https://gist.github.com/omarish/5687264
 
 ## Project Overview
 This project showcases the creation of two visualizations using R and ggplot2. The focus is on effective data presentation using advanced visualization techniques.
