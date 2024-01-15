@@ -40,5 +40,6 @@ To demonstrate the ability to create insightful and aesthetically pleasing visua
 <img width="691" alt="1" src="https://github.com/CTlanston/R-data-visualization-/assets/115934184/bfa53961-9876-46d1-b180-7769e1039167">
 <img width="688" alt="2" src="https://github.com/CTlanston/R-data-visualization-/assets/115934184/8600f6a5-e1e2-43b0-ac90-13da1549fb41">
 <img width="420" alt="image" src="https://github.com/CTlanston/R-data-visualization-/assets/115934184/6d030938-7161-4127-bad1-9b754cbb083f">
+
 <img width="546" alt="image" src="https://github.com/CTlanston/R-data-visualization-/assets/115934184/ad020168-10d9-45a8-84d3-45bd88989644">
 
